@@ -1,0 +1,11 @@
+{
+  "input": "../data/messy_inputs",
+  "config": "config.json",
+  "output_dir": "../output",
+  "workbook": "clean_report.xlsx",
+  "clean_csv": "clean_data.csv",
+  "errors_csv": "validation_errors.csv",
+  "preview_png": "../docs/preview.png",
+  "dedupe": true,
+  "validate_rules": true
+}

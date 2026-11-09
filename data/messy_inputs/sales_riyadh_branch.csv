@@ -1,0 +1,126 @@
+﻿order_no;client name;area;item;quantity;price (SAR);date;state
+ORD-1177;OMAR ALHARBI;madinah;monitor;18;851.25;17/09/2025;delivered
+ORD-1170;SARA ALHARBI;JEDDAH;monitor;9;SAR 841.38;20/09/2025;delivered
+ORD-1339;KHALID ALSHEHRI;madinah;monitor;1;772.49;07/01/2025;delivered
+ORD-1056;Yusuf Alshehri;jeddah;printer;9;SAR 770.62;27/05/2025;delivered
+ORD-1343;OMAR ALOTAIBI;makkah;laptop;19;3382.08;15/11/2025;delivered
+ORD-1301;SARA ALQAHTANI;MADINAH;keyboard;3;SAR 124.13;10/06/2025;delivered
+ORD-1207;YUSUF ALHARBI;riyadh;printer;13;SAR 780.85;04/05/2025;delivered
+ORD-1062;NOURA ALOTAIBI;dammam;monitor;6;SAR 773.55;14/07/2025;delivered
+ORD-1345;  Omar Alharbi ;dammam;laptop;10;2946.53;29/09/2025;returned
+ORD-1340;  Fatima Alotaibi ;riyadh;webcam;18;SAR 222.73;02/12/2025;delivered
+ORD-1430;Omar Alghamdi;dammam;keyboard;20;114.44;17/02/2025;delivered
+ORD-1140;  Sara Alharbi ;jeddah;laptop;9;SAR 3,329.73;08/06/2025;cancelled
+ORD-1188;ahmed alotaibi;riyadh;headset;8;327.27;07/07/2025;delivered
+ORD-1190;Omar Alshehri;makkah;webcam;8;229.34;14/01/2025;pending
+ORD-1186;  Ahmed Alshehri ;makkah;headset;20;SAR 340.89;21/05/2025;delivered
+ORD-1108;  Sara Alharbi ;riyadh;keyboard;11;SAR 127.11;31/05/2025;delivered
+ORD-1476;  Mohammed Alghamdi ;RIYADH;headset;9;SAR 285.09;25/10/2025;delivered
+ORD-1348;NOURA ALSHEHRI;jeddah;laptop;8;3066.67;11/06/2025;cancelled
+ORD-1211;FATIMA ALHARBI;dammam;monitor;12;900.13;23/06/2025;delivered
+ORD-1446;N/A;MADINAH;keyboard;2;SAR 121.28;10/08/2025;pending
+ORD-1319;  Khalid Alshehri ;jeddah;webcam;10;SAR 195.68;21/05/2025;delivered
+ORD-1294;omar alghamdi;makkah;keyboard;15;126.82;24/09/2025;delivered
+ORD-1322;AHMED ALHARBI;MAKKAH;headset;4;SAR 340.27;05/08/2025;delivered
+ORD-1424;NOURA ALHARBI;madinah;keyboard;20;SAR 110.83;28/02/2025;pending
+ORD-1208;  Sara Alzahrani ;MADINAH;laptop;16;3062.88;05/01/2025;pending
+ORD-1117;fatima alghamdi;DAMMAM;printer;10;SAR 818.46;23/06/2025;pending
+ORD-1313;omar alotaibi;dammam;keyboard;16;SAR 111.41;20/11/2025;delivered
+ORD-1228;ahmed alotaibi;dammam;mouse;6;SAR 70.64;19/01/2025;returned
+ORD-1258;  Yusuf Alqahtani ;makkah;webcam;10;SAR 199.99;20/09/2025;cancelled
+ORD-1387;Mohammed Alzahrani;JEDDAH;keyboard;6;131.33;09/04/2025;delivered
+ORD-1385;Ahmed Alzahrani;MADINAH;mouse;14;71.05;18/12/2025;cancelled
+ORD-1314;  Mohammed Alshehri ;riyadh;headset;13;SAR 310.97;23/05/2025;delivered
+ORD-1171;Yusuf Alghamdi;RIYADH;mouse;14;SAR 59.19;15/09/2025;delivered
+ORD-1324;  Fatima Alharbi ;MADINAH;keyboard;19;108.20;29/11/2025;delivered
+ORD-1209;omar alzahrani;MAKKAH;printer;2;SAR 764.49;19/10/2025;delivered
+ORD-1121;SARA ALSHEHRI;DAMMAM;headset;4;SAR 287.67;20/01/2025;delivered
+ORD-1182;Sara Alghamdi;riyadh;mouse;11;62.05;08/07/2025;delivered
+ORD-1241;Ahmed Alzahrani;makkah;printer;1;818.35;24/10/2025;delivered
+ORD-1415;Fatima Alzahrani;riyadh;keyboard;5;122.75;21/11/2025;delivered
+ORD-1290;FATIMA ALSHEHRI;madinah;router;2;243.03;27/11/2025;delivered
+ORD-1094;SARA ALSHEHRI;DAMMAM;headset;18;281.28;15/02/2025;delivered
+ORD-1447;  Fatima Alshehri ;jeddah;keyboard;4;SAR 117.30;04/11/2025;delivered
+ORD-1019;khalid alqahtani;JEDDAH;webcam;10;205.76;10/12/2025;delivered
+ORD-1302;  Omar Alshehri ;jeddah;keyboard;17;SAR 117.32;02/11/2025;delivered
+ORD-1158;Omar Alshehri;riyadh;monitor;17;SAR 874.84;21/01/2025;delivered
+ORD-1422;AHMED ALSHEHRI;RIYADH;laptop;14;3164.36;05/03/2025;delivered
+ORD-1203;fatima alzahrani;DAMMAM;laptop;16;SAR 3,177.24;24/06/2025;delivered
+ORD-1068;Mohammed Alshehri;MAKKAH;mouse;20;68.97;17/10/2025;pending
+ORD-1147;khalid alqahtani;madinah;webcam;12;SAR 192.03;22/01/2025;delivered
+ORD-1202;  Sara Alshehri ;makkah;headset;16;SAR 294.18;17/12/2025;delivered
+ORD-1013;  Fatima Alshehri ;dammam;keyboard;20;SAR 109.52;15/07/2025;delivered
+ORD-1039;  Ahmed Alghamdi ;madinah;keyboard;18;111.55;07/03/2025;delivered
+ORD-1478;FATIMA ALQAHTANI;madinah;printer;12;828.00;08/08/2025;delivered
+ORD-1440;sara alqahtani;madinah;monitor;7;876.28;22/08/2025;returned
+ORD-1347;  Yusuf Alshehri ;riyadh;router;19;220.59;10/03/2025;delivered
+ORD-1483;-;madinah;router;10;SAR 222.43;14/09/2025;delivered
+ORD-1223;Noura Alghamdi;jeddah;webcam;10;190.77;10/02/2025;shipped??
+ORD-1196;Noura Alzahrani;madinah;headset;3;286.77;12/06/2025;delivered
+ORD-1315;yusuf alghamdi;madinah;headset;1;0.00;17/02/2025;pending
+ORD-1112;Sara Alzahrani;MAKKAH;webcam;7;SAR 230.97;05/09/2025;delivered
+ORD-1205;Yusuf Alotaibi;jeddah;printer;4;SAR 709.89;16/07/2025;cancelled
+ORD-1378;ahmed alzahrani;jeddah;headset;20;334.16;22/03/2025;delivered
+ORD-1412;Yusuf Alotaibi;madinah;monitor;4;SAR 912.47;15/07/2025;delivered
+ORD-1499;NOURA ALGHAMDI;riyadh;webcam;17;207.02;04/09/2025;pending
+ORD-1448;NOURA ALQAHTANI;jeddah;webcam;9;SAR 205.71;25/06/2025;returned
+ORD-1004;OMAR ALGHAMDI;jeddah;webcam;7;229.20;22/06/2025;delivered
+ORD-1193;  Omar Alshehri ;riyadh;router;18;SAR 242.02;03/06/2025;cancelled
+ORD-1436;Fatima Alqahtani;madinah;webcam;2;SAR 189.49;22/03/2025;delivered
+ORD-1230;SARA ALZAHRANI;MADINAH;router;17;239.71;10/03/2025;cancelled
+ORD-1232;  Khalid Alotaibi ;madinah;printer;13;831.01;21/09/2025;delivered
+ORD-1308;Khalid Alzahrani;riyadh;headset;8;297.46;17/01/2025;shipped??
+ORD-1206;Omar Alqahtani;MAKKAH;keyboard;n/a;SAR 126.31;13/09/2025;returned
+ORD-1093;yusuf alghamdi;dammam;monitor;11;SAR 819.58;23/02/2025;cancelled
+ORD-1219;  Fatima Alqahtani ;jeddah;laptop;18;3088.03;06/12/2025;delivered
+ORD-1296;fatima alshehri;JEDDAH;monitor;17;794.66;23/03/2025;delivered
+ORD-1434;-;RIYADH;keyboard;14;118.58;02/02/2025;delivered
+ORD-1394;SARA ALZAHRANI;riyadh;printer;8;722.96;15/08/2025;pending
+ORD-1397;Fatima Alotaibi;JEDDAH;laptop;2;3039.67;22/08/2025;delivered
+ORD-1128;FATIMA ALQAHTANI;makkah;keyboard;6;110.64;14/01/2025;delivered
+ORD-1273;FATIMA ALSHEHRI;RIYADH;webcam;17;220.31;27/06/2025;delivered
+ORD-1052;Mohammed Alzahrani;dammam;headset;n/a;SAR 291.05;23/12/2025;delivered
+ORD-1040;OMAR ALOTAIBI;jeddah;laptop;4;3106.35;14/10/2025;cancelled
+ORD-1374;AHMED ALHARBI;dammam;monitor;15;SAR 889.54;27/03/2025;cancelled
+ORD-1316;mohammed alqahtani;dammam;router;7;SAR 262.47;19/04/2025;delivered
+ORD-1213;  Yusuf Alotaibi ;madinah;headset;17;287.67;10/11/2025;delivered
+ORD-1185;  Omar Alshehri ;makkah;monitor;10;840.81;07/08/2025;delivered
+ORD-1032;  Omar Alotaibi ;MAKKAH;mouse;13;SAR 60.20;27/11/2025;delivered
+ORD-1041;  Khalid Alotaibi ;jeddah;keyboard;14;108.59;20/06/2025;pending
+ORD-1026;AHMED ALSHEHRI;madinah;monitor;1;SAR 929.73;02/05/2025;delivered
+ORD-1337;  Sara Alqahtani ;RIYADH;webcam;9;SAR 218.92;23/10/2025;delivered
+ORD-1479;Noura Alghamdi;MAKKAH;mouse;5;SAR 67.33;19/06/2025;cancelled
+ORD-1469;Sara Alzahrani;dammam;mouse;15;SAR 66.69;10/08/2025;delivered
+ORD-1023;Noura Alotaibi;RIYADH;headset;4;SAR 319.86;01/07/2025;delivered
+ORD-1449;FATIMA ALZAHRANI;madinah;keyboard;17;115.17;26/12/2025;delivered
+ORD-1268;sara alshehri;RIYADH;mouse;2;SAR 59.72;14/07/2025;delivered
+ORD-1057;  Fatima Alotaibi ;jeddah;monitor;13;882.97;28/12/2025;delivered
+ORD-1145;  Sara Alharbi ;jeddah;headset;13;340.04;29/01/2025;delivered
+ORD-1217;  Fatima Alshehri ;JEDDAH;webcam;2;SAR 213.05;25/12/2025;delivered
+ORD-1350;FATIMA ALHARBI;jeddah;monitor;15;844.23;28/07/2025;delivered
+ORD-1276;MOHAMMED ALQAHTANI;makkah;webcam;8;218.95;12/02/2025;delivered
+ORD-1435;  Omar Alqahtani ;MADINAH;mouse;20;SAR 59.74;05/12/2025;pending
+ORD-1195;  Omar Alzahrani ;madinah;router;5;245.37;14/02/2025;delivered
+ORD-9034;KHALID LSHEHRI;RIYADH;laptop;13;SAR 3,160.94;04/10/2025;delivered
+ORD-1327;Ahmed Alshehri;makkah;printer;7;782.77;18/09/2025;delivered
+ORD-1231;MOHAMMED ALGHAMDI;jeddah;mouse;15;SAR 66.93;06/04/2025;delivered
+ORD-1080;SARA ALSHEHRI;JEDDAH;laptop;16;2945.66;07/01/2025;delivered
+ORD-1184;  Noura Alharbi ;dammam;monitor;20;SAR 934.17;03/04/2025;delivered
+ORD-1194;OMAR ALQAHTANI;jeddah;keyboard;4;SAR 131.64;13/03/2025;delivered
+ORD-1225;KHALID ALHARBI;madinah;mouse;8;66.79;27/01/2025;delivered
+ORD-9038;  Yusuf Aqahtani ;jeddah;printer;11;760.66;21/07/2025;delivered
+ORD-9039;khalid lshehri;jeddah;router;10;SAR 237.54;16/12/2025;delivered
+ORD-1003;KHALID ALZAHRANI;MADINAH;webcam;9;SAR 223.00;04/01/2025;pending
+ORD-1477;Khalid Alharbi;MAKKAH;keyboard;20;SAR 109.68;10/04/2025;delivered
+ORD-1381;KHALID ALHARBI;riyadh;headset;7;289.59;30/05/2025;returned
+ORD-1010;noura alghamdi;riyadh;router;7;SAR 259.83;18/10/2025;cancelled
+ORD-1406;KHALID ALOTAIBI;MADINAH;printer;8;SAR 842.35;04/11/2025;delivered
+ORD-1123;fatima alzahrani;riyadh;webcam;16;SAR 214.86;24/05/2025;delivered
+ORD-1283;  Noura Alghamdi ;madinah;laptop;13;SAR 3,394.61;18/06/2025;delivered
+ORD-1116;  Sara Alghamdi ;DAMMAM;monitor;6;799.14;04/10/2025;cancelled
+ORD-1306;  Khalid Alghamdi ;RIYADH;laptop;9;3023.90;28/05/2025;delivered
+ORD-1260;SARA ALQAHTANI;madinah;laptop;19;SAR 3,340.81;01/06/2025;delivered
+ORD-1163;NOURA ALQAHTANI;makkah;monitor;1;SAR 826.64;03/04/2025;returned
+ORD-1485;YUSUF ALGHAMDI;riyadh;keyboard;8;126.28;29/04/2025;delivered
+ORD-9033;FATIMA LSHEHRI;madinah;mouse;1;70.89;25/08/2025;cancelled
+ORD-1204;OMAR ALZAHRANI;jeddah;router;12;SAR 240.72;24/02/2025;delivered

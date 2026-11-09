@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "excel-automation-engine"
+version = "0.1.0"
+description = "pandas + openpyxl engine: merge messy Excel/CSV files, clean, de-duplicate, validate and report, with a before/after quality scorecard"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Aymen Al Erwi" }]
+dependencies = ["pandas>=2.0", "numpy>=1.26", "openpyxl>=3.1", "matplotlib>=3.8", "pydantic>=2.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+excel-engine = "excel_engine.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["excel_engine*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
