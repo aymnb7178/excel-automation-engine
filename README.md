@@ -152,7 +152,7 @@ Tests cover number/date/Arabic parsing, config validation, header detection and 
 ## Limitations
 
 - **All data is synthetic.** The generator invents names, prices and dates; real files will be messier in ways it does not model. Numbers above describe the synthetic set only and are not accuracy claims for real data.
-- Fuzzy duplicates are **suggestions** (4 of the 16 flagged pairs were not injected; they may be coincidental look-alikes). They are never removed automatically.
+- Fuzzy duplicates are **suggestions** (4 of 16 flagged pairs were not injected; they may be coincidental look-alikes). They are never removed automatically.
 - Names are not transliterated: the same customer written in Arabic and in English is treated as two customers.
 - Ambiguous dates such as `03/04/2025` follow the `dayfirst` setting (default `true`); there is no per-file inference.
 - Only `.xlsx`/`.xlsm`/`.csv`. No `.xls`, no merged-cell handling, no formulas (cached values are read), no multi-row headers.
@@ -166,10 +166,6 @@ Tests cover number/date/Arabic parsing, config validation, header detection and 
 - Per-file date-format inference and `.xls` support.
 - A fuzzy-review workflow that applies accepted merges from the review sheet.
 - Rules across columns (e.g. ship date after order date).
-
-## Built with AI assistance
-
-This project was built with the help of an AI assistant (Claude). The code, tests and README were drafted with AI help; the numbers above are pasted from real runs of the code in this repository. Review it before relying on it.
 
 ## License
 
